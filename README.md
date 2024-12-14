@@ -141,7 +141,7 @@ The main entities with basic attributes:
 ### Statistics
 - The game collects and displays a separate view of statistics for all playthroughs, sorted by the amount of treasure collected: amount of treasure, level reached, number of opponents defeated, amount of food consumed, number of elixirs consumed, number of scrolls read, number of hits made and missed, number of cells traversed.
 
-## Game storage
+### Game storage
 **data layer**, which will save and retrieve player game progress data in a ``json`` file.
 - After completing each level, the obtained statistics and the number of completed levels must be saved.
 - Upon restarting the game, levels should be generated according to saved information, and the player's progress should be completely restored (accrued points, current attribute values).

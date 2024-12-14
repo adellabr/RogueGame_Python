@@ -1,0 +1,46 @@
+{
+  "Attempt number 3": {
+    "Score": 50,
+    "Level": 1,
+    "Killed enemies amount": 1,
+    "Eaten food amount": 0,
+    "Drunk elixir amount": 0,
+    "Read scroll amount": 0,
+    "Hits amount": 12,
+    "Missed hits amount": 9,
+    "Passed cells amount": 150
+  },
+  "Attempt number 1": {
+    "Score": 0,
+    "Level": 1,
+    "Killed enemies amount": 0,
+    "Eaten food amount": 0,
+    "Drunk elixir amount": 0,
+    "Read scroll amount": 0,
+    "Hits amount": 4,
+    "Missed hits amount": 1,
+    "Passed cells amount": 62
+  },
+  "Attempt number 2": {
+    "Score": 0,
+    "Level": 1,
+    "Killed enemies amount": 0,
+    "Eaten food amount": 0,
+    "Drunk elixir amount": 0,
+    "Read scroll amount": 0,
+    "Hits amount": 5,
+    "Missed hits amount": 2,
+    "Passed cells amount": 45
+  },
+  "Attempt number 4": {
+    "Score": 0,
+    "Level": 1,
+    "Killed enemies amount": 0,
+    "Eaten food amount": 0,
+    "Drunk elixir amount": 0,
+    "Read scroll amount": 0,
+    "Hits amount": 9,
+    "Missed hits amount": 7,
+    "Passed cells amount": 78
+  }
+}

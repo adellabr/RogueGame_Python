@@ -1,0 +1,13 @@
+{
+  "Level 1": {
+    "Score": 0,
+    "Level": 1,
+    "Killed enemies amount": 0,
+    "Eaten food amount": 0,
+    "Drunk elixir amount": 0,
+    "Read scroll amount": 0,
+    "Hits amount": 9,
+    "Missed hits amount": 7,
+    "Passed cells amount": 78
+  }
+}
